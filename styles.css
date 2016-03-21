@@ -1,0 +1,37 @@
+body {
+  border-style: double;
+  border-width: 2px 5px 2px 10px;
+  padding: 4em;
+  background-image: url(images/new_year_background.png)
+}
+
+header {
+  margin: 0 auto;
+  max-width: 80%;
+  overflow: hidden;
+}
+
+nav {
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  font-size: 1.6em;
+}
+
+table {
+  margin: 0 auto;
+}
+
+img#climber {
+  max-width: 50%;
+}
+
+.body-text {
+  font-family: 'Josefin Slab', serif;
+  letter-spacing: .0425em;
+  line-height: 140%;
+}
+
+a:visited {
+  color: green;
+}
+
